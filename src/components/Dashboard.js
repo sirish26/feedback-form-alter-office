@@ -61,7 +61,7 @@ function Dashboard() {
         }
       ]);
       handleCloseDialog();
-      navigate(`/edit/${newFormId}`);
+      navigate(`/edit`);
     }
   };
 
